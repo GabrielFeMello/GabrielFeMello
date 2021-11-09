@@ -1,18 +1,19 @@
 
 ## I'm seeing you
 <br />
-Thanks for reaching my GitHub profile. I,m a web developer, curious about mobile applications.
+<p>Thanks for reaching my GitHub profile. I,m a web developer, curious about mobile applications.</p>
 <br />
-- 🔭 Working with Ruby on Rails softwares and React
-- 🌱 learning = Array['firebase', 'react native', ]
-- Looking for international small jobs experience  
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about music, churches and codes, and I'll be usefull for U
-- 📫 How to reach me: contato@gabrielfemello.com.br
-
+<ul>
+<li> 🔭 Working with Ruby on Rails softwares and React</li>
+<li> 🌱 learning = Array['firebase', 'react native', 'AWS', 'nextJS', 'IBM Cloud']</li>
+<li> Looking for international small jobs experience  </li>
+<li> 💬 Ask me about music, churches and codes, and I'll be usefull for U</li>
+<li> 📫 How to reach me: contato@gabrielfemello.com.br</li>
+</ul>
+<hr>
 [![trophy](https://github-profile-trophy.vercel.app/?username=GabrielFeMello)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GabrielFeMello)](https://git.io/streak-stats)
+<hr>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GabrielFeMello&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 <!--
