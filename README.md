@@ -12,7 +12,6 @@
 <li> Working with Ruby on Rails softwares and React.JS. </li>
 <li> I am learting Google Firebase, Google Cloud, NextJS and Node.js</li>
 <li> I've worked with: PHP, Wordpress, Graphic Design. </li>
-<li> Looking for international small jobs experience  </li>
 <li> Reach me at contato@gabrielfemello.com.br</li>
 </ul>
 <h3> Trying to find time to work on my website:</h3>
