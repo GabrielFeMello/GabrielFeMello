@@ -7,9 +7,6 @@
 <p>
   <a href="https://www.tiflux.com">Tiflux</a> as FrontEnd Developer with ReactJS.
 </p>
-<p>
-  <a href="https://www.centraldoboi.com.br">Central do Boi</a> as Full Stack Developer with Ruby on Rails.
-</p>
 <h2>Learning about:</h2>
 <ul>
 <li> Working with Ruby on Rails softwares and React.JS. </li>
