@@ -7,7 +7,7 @@
 <h2>Learning about:</h2>
 <ul>
 <li> Working with Ruby on Rails softwares and React.JS. </li>
-<li> I am learting Google Firebase, Google Cloud, NextJS, Node.js, Elixir and Phoenix.</li>
+<li> Studying Google Firebase, Google Cloud, NextJS, Node.js, Elixir and Phoenix.</li>
 <li> Socket.IO and AWS intusiast. </li>
 <li> I've worked with: PHP, Wordpress, Graphic Design and Advertisement for over 4 years. </li>
 <li> Send me a message at contato@gabrielfemello.com.br</li>
