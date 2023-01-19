@@ -10,7 +10,8 @@
 <li> Studying Google Firebase, Google Cloud, NextJS, Node.js, Elixir and Phoenix.</li>
 <li> Socket.IO and AWS intusiast. </li>
 <li> I've worked with: PHP, Wordpress, Graphic Design and Advertisement for over 4 years. </li>
-<li> You can find some developer content at [My Instagram](https://www.instagram.com/um.desenvolvedor/)</li>
+<li> [pt/BR] You can find some developer content at my developer instagram (https://www.instagram.com/desenvolvendo.carreiras/)</li>
+<li> [pt/BR] Cultural, Professional and personal develppment at my personal account (https://www.instagram.com/um.desenvolvedor/)</li>
 <li> Send me a message at gabriel.fe.mello@gmail.com</li>
 </ul>
 <!--
