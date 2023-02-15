@@ -1,19 +1,58 @@
-<p>Thanks for reaching my GitHub profile. I'm a web developer, curious about mobile applications, infrastructure and Google Cloud.</p>
+<p>Thanks for reaching my GitHub profile. I'm a web developer.</p>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 <h2>Working on</h2>
 <p>
   <a href="https://www.tiflux.com">Tiflux</a> as FrontEnd Developer with ReactJS.
 </p>
-<h2>Learning about:</h2>
+<p>
+  I've been working with Kafka, NodeJS APIs, microsservices, ReactJs, Socket and Ruby on Rails. I'm also a <b>Backend Teacher</b> at <a href="https://www.stackx.com.br/" target="_blank"><b>StackX</b></a>
+</p>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+
+  
+  </div>
+  
+<div>
+  <a href="https://github.com/GabrielFeMello">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFeMello&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielFeMello&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
+  <h2>Enthusiast:</h2>
+  <p>(If you have any project or open source programming with these stuffs, let's talk! I would be very interested. )</p>
 <ul>
-<li> Working with Ruby on Rails softwares and React.JS. </li>
-<li> Studying Google Firebase, Google Cloud, NextJS, Node.js, Elixir and Phoenix.</li>
-<li> Socket.IO and AWS intusiast. </li>
-<li> I've worked with: PHP, Wordpress, Graphic Design and Advertisement for over 4 years. </li>
-<li> [pt/BR] You can find some developer content at my developer instagram (https://www.instagram.com/desenvolvendo.carreiras/)</li>
-<li> [pt/BR] Cultural, Professional and personal develppment at my personal account (https://www.instagram.com/um.desenvolvedor/)</li>
-<li> Send me a message at gabriel.fe.mello@gmail.com</li>
+  <li> AWS, Azure, Google Firebase, Google Cloud, NextJS, Node.js, Elixir and Phoenix.</li>
+  <li> I've worked with: PHP, Wordpress, Graphic Design and Advertisement for over 4 years. </li>
 </ul>
+  
+  <div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
+
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
+
+  </div>
+
+ <p>Find me at there:</p>
+<div>
+  <a href="https://www.youtube.com/channel/UC4-WLyBK27Mdvb2I4u6apOQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+
+  <a href="https://instagram.com/desenvolvendo.carreiras" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+  <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
 <!--
 <h3> Trying to find time to work on my website:</h3>
 <p><a href="https://www.gabrielfemello.com.br" target="_blank">Visit here</a></p>
