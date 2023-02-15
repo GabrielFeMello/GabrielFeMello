@@ -1,6 +1,4 @@
-<p>Thanks for reaching my GitHub profile. I'm a web developer.</p>
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+My name is Gabriel Mello, a Developer based on Brazil!
 
 <h2>Working on</h2>
 <p>
@@ -17,8 +15,9 @@
 </div>
   
   
-  <h2>Enthusiast:</h2>
-  <p>(If you have any project or open source programming with these stuffs, let's talk! I would be very interested. )</p>
+<h2>Enthusiast:</h2>
+<p>If you have any project or open source programming with these stuffs, let's talk! I would be very interested.</p>
+
 <ul>
   <li> AWS, Azure, Google Firebase, Google Cloud, NextJS, Node.js, Elixir and Phoenix.</li>
   <li> I've worked with: PHP, Wordpress, Graphic Design and Advertisement for over 4 years. </li>
@@ -28,20 +27,24 @@
   <img width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original-wordmark.svg" />
   <img width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
   <img width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-  <img width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
   <img width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" />
   <img width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
-
 </div>
 
- <p>Find me at there:</p>
-<div>
-  <a href="https://www.youtube.com/channel/UC4-WLyBK27Mdvb2I4u6apOQ" target="_blank"><img width="200px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<p>Find me at</p>
 
-  <a href="https://instagram.com/desenvolvendo.carreiras" target="_blank"><img width="200px" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div>
+  <a href="https://www.youtube.com/channel/UC4-WLyBK27Mdvb2I4u6apOQ" target="_blank" style="display: inline-block; margin-right: 15px;">
+    <img width="200px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+  </a>
+
+  <a href="https://instagram.com/desenvolvendo.carreiras" target="_blank" style="display: inline-block; margin-right: 15px;">
+    <img width="200px" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
   
-  <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img  width="200px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank" style="display: inline-block; margin-right: 15px;">
+    <img  width="200px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
 </div>
 
 <!--
